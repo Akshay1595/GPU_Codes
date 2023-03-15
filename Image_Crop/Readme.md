@@ -1,5 +1,5 @@
 ### Crop Image
-This is python script to crop the image from x and y co-ordinates passed by the user
+This is python script to crop the image from x and y co-ordinates passed by the user.
 If Image is of size 800 x 800 and user passes x = 400 and y = 400, it should result 1/4th of the image.
 If x = 0 and y = 400. It will show image half cut on y axis.
 

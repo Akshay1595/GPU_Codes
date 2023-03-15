@@ -1,9 +1,8 @@
 '''
-@file   : image_rotate.py
+@file   : image_crop.py
 @Author : Akshay Godase
-@Brief  : Script to implement Rotating of image by 90 degree direction in 
-          Direction input given by the user
-@Date   : 14/03/2023
+@Brief  : Python script to crop the image from x and y co-ordinates passed by the user.
+@Date   : 15/03/2023
 '''
 
 # Necessary Imports
